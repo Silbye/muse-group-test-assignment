@@ -2,6 +2,7 @@
   "name": "muse-school-test-task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Silbye.github.io/muse-group-test-assignment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
